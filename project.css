@@ -64,3 +64,14 @@ span {
     background-repeat: no-repeat;
     background-position: left;
 }
+#full-stack {
+    border-left: 7px solid orange;
+}
+
+#baby-web {
+    border-left: 7px solid blue;
+}
+
+footer p {
+    text-align: center;
+}
