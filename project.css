@@ -6,9 +6,11 @@ body {
 h1 {
     font-size: 400%;
 }
+
 span {
     color: tomato;
 }
+
 .first-sec {
     display: flex;
     background-image: url(images/top-banner.png);
@@ -44,20 +46,21 @@ span {
     background-image: url(images/dream-bg.png);
     background-repeat: no-repeat;
     background-position: right;
-    
-        .third-sec {
-            display: flex;
-        }
-    
-        .half-width2 {
-            box-shadow: 10px 40px 40px grey;
-            width: 40%;
-            margin: 5%;
-            padding-left: 10%;
-        }
-    
-        .experience-area {
-            background-image: url(images/exp-bg.png);
-            background-repeat: no-repeat;
-            background-position: left;
-        }
+}
+
+.third-sec {
+    display: flex;
+}
+
+.half-width2 {
+    box-shadow: 10px 40px 40px grey;
+    width: 40%;
+    margin: 5%;
+    padding-left: 10%;
+}
+
+.experience-area {
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+}
